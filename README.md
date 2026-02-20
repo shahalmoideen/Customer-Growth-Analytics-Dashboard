@@ -53,4 +53,4 @@ This project demonstrates practical skills in **data cleaning, querying, KPI cre
 
 It showcases how raw customer data can be transformed into meaningful insights that drive business growth and strategic decision-making
 
-Dashboard : 
+Dashboard : https://github.com/shahalmoideen/Customer-Growth-Analytics-Dashboard/blob/main/Customer%20growth%20analytics.png
