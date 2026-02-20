@@ -52,3 +52,5 @@ The dashboard provides a comprehensive analysis across:
 This project demonstrates practical skills in **data cleaning, querying, KPI creation, and dashboard storytelling.
 
 It showcases how raw customer data can be transformed into meaningful insights that drive business growth and strategic decision-making
+
+Dashboard : 
